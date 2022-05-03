@@ -14,7 +14,6 @@ To keep it simple, you can write migrations in SQL — a database-specific synta
 
 # Steps to Integrate in mule application. Follow below link
 
-https://www.linkedin.com/pulse/liquibase-integration-mulesoft-application-shyam-raj-prasad/
-
+https://shyamrajprasad.medium.com/liquibase-integration-in-mulesoft-application-3e7d9d6cd20c
 # References 
 https://docs.liquibase.com/tools-integrations/maven/workflows/creating-liquibase-projects-with-maven-postgresql.html
